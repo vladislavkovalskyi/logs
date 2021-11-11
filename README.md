@@ -1,5 +1,5 @@
 # Logs
-Lbrary for sending color logs Python
+Library for sending color logs Python
 
 
 ### Установка
