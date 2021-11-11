@@ -13,7 +13,7 @@ with open("logs/const/const.py", encoding="utf-8") as f:
     exec(f.read())
 
 setuptools.setup(
-    name="aioowm",
+    name="logs",
     version=locals()["__version__"],
     author=locals()["__author__"],
     description="Library for sending color logs Python",
